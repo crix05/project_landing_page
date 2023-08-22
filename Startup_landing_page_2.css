@@ -1,0 +1,30 @@
+.boom
+{
+    height : 90vh;
+}
+
+.tada
+{
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items : center;
+    font-size : 3rem;
+    color: white;
+    height : 100vh;
+}
+
+
+.btn
+{
+    padding : 1rem 2rem;
+    font-weight : 700;
+    border-radius : 300px;
+    text-transform: uppercase;
+}
+
+body
+{
+    background : url(laptop.jpeg) no-repeat center center fixed;
+    background-size : cover;
+}
